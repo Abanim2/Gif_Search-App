@@ -46,4 +46,5 @@ const MainComponent = () => {
     </div>
 }
 
+
 export default MainComponent;
